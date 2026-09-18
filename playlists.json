@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Best10 (Português)",
+    "url": "https://iptv-org.github.io/iptv/languages/por.m3u",
+    "type": "m3u"
+  },
+  {
+    "name": "IPTV Org - Brasil Oficial",
+    "url": "https://iptv-org.github.io/iptv/countries/br.m3u",
+    "type": "m3u"
+  },
+  {
+    "name": "Lista IPTV de Canais Abertos (Geral)",
+    "url": "https://iptv-org.github.io/iptv/index.m3u",
+    "type": "m3u"
+  },
+  {
+    "name": "IPTV Adulto / NSFW",
+    "url": "https://iptv-org.github.io/iptv/index.nsfw.m3u",
+    "type": "m3u"
+  },
+  {
+    "name": "Lista IPTV Geral",
+    "url": "https://iptv-org.github.io/iptv/categories/general.m3u",
+    "type": "m3u"
+  },
+  {
+    "name": "Lista IPTV Globo Aberto",
+    "url": "https://raw.githubusercontent.com/paulooosrj/khan-stream/master/public/sources/lista-iptv.txt",
+    "type": "m3u"
+  },
+  {
+    "name": "Lista IPTV Pública (Gist)",
+    "url": "https://gist.githubusercontent.com/fabiomagno/82e617e8e8c0d9bb60b605aad0bb107d/raw",
+    "type": "m3u"
+  },
+  {
+    "name": "Lista IPTV Atualizada por Categorias",
+    "url": "https://iptv-org.github.io/iptv/index.category.m3u",
+    "type": "m3u"
+  },
+  {
+    "name": "Lista IPTV Brasil (Supersonic)",
+    "url": "https://raw.githubusercontent.com/Ramys/Iptv-Brasil-2025/master/supersonictv.m3u8",
+    "type": "m3u"
+  }
+]
