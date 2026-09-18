@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cnn-brasil",
+    "name": "CNN Brasil",
+    "category": "Notícias",
+    "group": "Notícias",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Brasil_logo.svg/512px-CNN_Brasil_logo.svg.png",
+    "url": "https://www.youtube.com/@CNNbrasil/live",
+    "description": "Cobertura 24 horas e transmissão ao vivo de jornalismo da CNN Brasil."
+  },
+  {
+    "id": "brasil-urgente",
+    "name": "Brasil Urgente",
+    "category": "Jornalismo",
+    "group": "Jornalismo",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/4/47/Logotipo_do_Brasil_Urgente.png",
+    "url": "https://www.youtube.com/@BrasilUrgente/live",
+    "description": "Transmissões e coberturas diárias do programa Brasil Urgente."
+  },
+  {
+    "id": "sbt-oficial",
+    "name": "SBT",
+    "category": "Entretenimento",
+    "group": "Variedades",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SBT_logo_2014.svg/512px-SBT_logo_2014.svg.png",
+    "url": "https://www.youtube.com/@sbt/live",
+    "description": "Programação, jornalismo e transmissões ao vivo do canal oficial do SBT."
+  },
+  {
+    "id": "band-jornalismo",
+    "name": "Band Jornalismo",
+    "category": "Notícias",
+    "group": "Notícias",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rede_Bandeirantes_logo.svg/512px-Rede_Bandeirantes_logo.svg.png",
+    "url": "https://www.youtube.com/@bandjornalismo/live",
+    "description": "Principais notícias, debates e transmissões ao vivo do jornalismo da Band."
+  }
+]
