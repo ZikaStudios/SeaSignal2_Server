@@ -27,6 +27,15 @@
     "description": "Programação, jornalismo e transmissões ao vivo do canal oficial do SBT."
   },
   {
+    "id": "sbt-news",
+    "name": "SBT News",
+    "category": "Notícias",
+    "group": "Notícias",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SBT_News_logo.svg/512px-SBT_News_logo.svg.png",
+    "url": "https://www.youtube.com/@SBTNews/live",
+    "description": "Canal de jornalismo 24 horas do SBT com transmissões e debates ao vivo."
+  },
+  {
     "id": "band-jornalismo",
     "name": "Band Jornalismo",
     "category": "Notícias",
@@ -34,5 +43,32 @@
     "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rede_Bandeirantes_logo.svg/512px-Rede_Bandeirantes_logo.svg.png",
     "url": "https://www.youtube.com/@bandjornalismo/live",
     "description": "Principais notícias, debates e transmissões ao vivo do jornalismo da Band."
+  },
+  {
+    "id": "cartoon-network-brasil",
+    "name": "Cartoon Network Brasil",
+    "category": "Infantil",
+    "group": "Infantil / Desenhos",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
+    "url": "https://www.youtube.com/@BRCartoonNetworkvideos/live",
+    "description": "Animações, episódios especiais e transmissões do Cartoon Network Brasil."
+  },
+  {
+    "id": "discovery-brasil",
+    "name": "Discovery Brasil",
+    "category": "Documentários",
+    "group": "Documentários / Ciência",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Discovery_Channel_2019.svg/512px-Discovery_Channel_2019.svg.png",
+    "url": "https://www.youtube.com/@DiscoveryBR/live",
+    "description": "Documentários sobre ciência, sobrevivência, natureza e grandes produções."
+  },
+  {
+    "id": "animal-planet-brasil",
+    "name": "Animal Planet Brasil",
+    "category": "Documentários",
+    "group": "Natureza / Animais",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Animal_Planet_2018.svg/512px-Animal_Planet_2018.svg.png",
+    "url": "https://www.youtube.com/@AnimalPlanetBR/live",
+    "description": "Séries e transmissões dedicadas ao reino animal, vida selvagem e resgates."
   }
 ]
