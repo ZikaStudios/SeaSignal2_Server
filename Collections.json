@@ -1,0 +1,151 @@
+{
+  "collection": "Minha TV",
+  "version": 1,
+  "totalChannels": 24,
+  "channels": [
+    {
+      "name": "Rede Globo (720p)",
+      "url": "https:\/\/media2.cdntvms.com.br\/tv_morena_dorados\/index.m3u8",
+      "logoUrl": "https:\/\/i.imgur.com\/O02TF2r.png",
+      "group": "Undefined"
+    },
+    {
+      "name": "Adult Swim Latin America Brazil (720p)",
+      "url": "http:\/\/168.197.104.22\/ADULT_SWIM\/index.m3u8",
+      "logoUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/e\/e4\/Adult_Swim_2003_logo.svg\/960px-Adult_Swim_2003_logo.svg.png",
+      "group": "Entertainment"
+    },
+    {
+      "name": "Canal do Boi (720p)",
+      "url": "http:\/\/45.162.64.114\/CANAL_DO_BOI\/index.m3u8",
+      "logoUrl": "https:\/\/i.imgur.com\/pVM5MhS.png",
+      "group": "Undefined"
+    },
+    {
+      "name": "Canal Futura (720p)",
+      "url": "http:\/\/45.162.64.114\/FUTURA\/index.m3u8",
+      "logoUrl": "https:\/\/i.imgur.com\/LgynEBC.png",
+      "group": "Education"
+    },
+    {
+      "name": "History (Brazil) (720p)",
+      "url": "http:\/\/45.177.114.114\/HISTORY\/index.m3u8",
+      "logoUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/0\/01\/History_%282021%29.svg\/500px-History_%282021%29.svg.png",
+      "group": "Documentary"
+    },
+    {
+      "name": "Nickelodeon (Brazil) (480p)",
+      "url": "https:\/\/stmv2.srvif.com\/gafeab\/gafeab\/playlist.m3u8",
+      "logoUrl": "https:\/\/i.imgur.com\/E84jnP8.png",
+      "group": "Kids"
+    },
+    {
+      "name": "NickOnline HD (720p)",
+      "url": "https:\/\/x1colegal.com\/hls\/stream.m3u8",
+      "logoUrl": "https:\/\/x1colegal.com\/logo.png",
+      "group": "Animation;Kids"
+    },
+    {
+      "name": "NickOnline Bob Esponja (720p) [Not 24\/7]",
+      "url": "https:\/\/bob.x1colegal.com\/hls\/stream.m3u8",
+      "logoUrl": "https:\/\/x1colegal.com\/nickonlinebobesponja.png",
+      "group": "Animation;Kids"
+    },
+    {
+      "name": "NickToons Brasil (480p)",
+      "url": "https:\/\/stmv2.srvif.com\/nicktoons\/nicktoons\/playlist.m3u8",
+      "logoUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/97\/Nicktoons_logo_%282023%29.svg\/330px-Nicktoons_logo_%282023%29.svg.png",
+      "group": "Animation;Kids"
+    },
+    {
+      "name": "Rede Globo (720p)",
+      "url": "https:\/\/media2.cdntvms.com.br\/tv_morena_dorados\/index.m3u8",
+      "logoUrl": "https:\/\/i.imgur.com\/O02TF2r.png",
+      "group": "Undefined"
+    },
+    {
+      "name": "SBT Interior (720p)",
+      "url": "https:\/\/cdn.jmvstream.com\/w\/LVW-10801\/LVW10801_Xvg4R0u57n\/playlist.m3u8",
+      "logoUrl": "https:\/\/i.imgur.com\/IkZfa4j.png",
+      "group": "General"
+    },
+    {
+      "name": "TV Cultura (720p)",
+      "url": "http:\/\/45.162.64.114\/TV_CULTURA\/index.m3u8",
+      "logoUrl": "https:\/\/i.ibb.co\/nm0jXMM\/cultura-3x.png",
+      "group": "Undefined"
+    },
+    {
+      "name": "Jovem Pan News (720p)",
+      "url": "http:\/\/170.83.49.66:8083\/JOVEMPANNEWSHD\/index.m3u8",
+      "logoUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/26\/Jovem_Pan_logo_2018.svg\/960px-Jovem_Pan_logo_2018.svg.png",
+      "group": "News"
+    },
+    {
+      "name": "Rede Globo (720p)",
+      "url": "https:\/\/media2.cdntvms.com.br\/tv_morena_dorados\/index.m3u8",
+      "logoUrl": "https:\/\/i.imgur.com\/O02TF2r.png",
+      "group": "Undefined"
+    },
+    {
+      "name": "Rede TV! (720p)",
+      "url": "http:\/\/45.162.64.114\/REDE_TV\/index.m3u8",
+      "logoUrl": "https:\/\/i.imgur.com\/ZJgD38F.png",
+      "group": "General"
+    },
+    {
+      "name": "Sony Channel (Brazil) (720p)",
+      "url": "http:\/\/170.83.16.50\/SONY_CHANNEL\/index.m3u8",
+      "logoUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/b\/b9\/Sony_Channel_Logo.png\/960px-Sony_Channel_Logo.png",
+      "group": "Undefined"
+    },
+    {
+      "name": "TV A Critica",
+      "url": "https:\/\/cdn.live.br1.jmvstream.com\/w\/LVW-20715\/LVW20715_50E3x2MCm2\/playlist.m3u8",
+      "logoUrl": "https:\/\/i.imgur.com\/j51rBro.png",
+      "group": "Undefined"
+    },
+    {
+      "name": "CNN Brasil",
+      "url": "https:\/\/www.youtube.com\/@CNNbrasil\/live",
+      "logoUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/6\/66\/CNN_Brasil_logo.svg\/512px-CNN_Brasil_logo.svg.png",
+      "group": "Notícias"
+    },
+    {
+      "name": "Brasil Urgente",
+      "url": "https:\/\/www.youtube.com\/@BrasilUrgente\/live",
+      "logoUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/pt\/4\/47\/Logotipo_do_Brasil_Urgente.png",
+      "group": "Jornalismo"
+    },
+    {
+      "name": "SBT",
+      "url": "https:\/\/www.youtube.com\/@sbt\/live",
+      "logoUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/3\/36\/SBT_logo_2014.svg\/512px-SBT_logo_2014.svg.png",
+      "group": "Variedades"
+    },
+    {
+      "name": "Band Jornalismo",
+      "url": "https:\/\/www.youtube.com\/@bandjornalismo\/live",
+      "logoUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/23\/Rede_Bandeirantes_logo.svg\/512px-Rede_Bandeirantes_logo.svg.png",
+      "group": "Notícias"
+    },
+    {
+      "name": "Cartoon Network Brasil",
+      "url": "https:\/\/www.youtube.com\/@BRCartoonNetworkvideos\/live",
+      "logoUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/8\/80\/Cartoon_Network_2010_logo.svg\/512px-Cartoon_Network_2010_logo.svg.png",
+      "group": "Infantil \/ Desenhos"
+    },
+    {
+      "name": "Discovery Brasil",
+      "url": "https:\/\/www.youtube.com\/@DiscoveryBR\/live",
+      "logoUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/2\/23\/Discovery_Channel_2019.svg\/512px-Discovery_Channel_2019.svg.png",
+      "group": "Documentários \/ Ciência"
+    },
+    {
+      "name": "Animal Planet Brasil",
+      "url": "https:\/\/www.youtube.com\/@AnimalPlanetBR\/live",
+      "logoUrl": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/1\/13\/Animal_Planet_2018.svg\/512px-Animal_Planet_2018.svg.png",
+      "group": "Natureza \/ Animais"
+    }
+  ]
+}
