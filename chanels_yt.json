@@ -1,74 +1,90 @@
 [
   {
+    "id": "melhorda-tarde",
+    "name": "Melhorda Tarde",
+    "category": "Entretenimento",
+    "group": "",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/2/2e/Melhordatarde2025.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
+    "url": "https://www.youtube.com/@MelhordaTarde/live",
+    "description": "",
+    "autoChange": true,
+    "checkType": "auto",
+    "nextChannelLink": "https://www.youtube.com/@brasilurgente/live"
+  },
+  {
     "id": "cnn-brasil",
     "name": "CNN Brasil",
     "category": "Notícias",
-    "group": "Notícias",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_Brasil_logo.svg/512px-CNN_Brasil_logo.svg.png",
-    "url": "https://www.youtube.com/@CNNbrasil/live",
-    "description": "Cobertura 24 horas e transmissão ao vivo de jornalismo da CNN Brasil."
+    "group": "Jornalismo",
+    "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/960px-CNN_International_logo.svg.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=thumbnail",
+    "url": "https://www.youtube.com/@CNNBrasil/live",
+    "description": "Notícias ao vivo da CNN Brasil 24 horas."
   },
   {
     "id": "brasil-urgente",
     "name": "Brasil Urgente",
-    "category": "Jornalismo",
-    "group": "Jornalismo",
-    "logo": "https://upload.wikimedia.org/wikipedia/pt/4/47/Logotipo_do_Brasil_Urgente.png",
-    "url": "https://www.youtube.com/@BrasilUrgente/live",
-    "description": "Transmissões e coberturas diárias do programa Brasil Urgente."
+    "category": "Notícias",
+    "group": "Jornalismo Policial",
+    "logo": "https://imagem.natelinha.uol.com.br/televisao/programa/brasil-urgente_1337.jpeg",
+    "url": "https://www.youtube.com/@brasilurgente/live",
+    "description": "Jornalismo investigativo e policial.",
+    "autoChange": true,
+    "checkType": "both",
+    "changeTime": "19:20",
+    "nextChannelLink": "https://www.youtube.com/@bandjornalismo/live"
   },
   {
     "id": "sbt-oficial",
     "name": "SBT",
     "category": "Entretenimento",
-    "group": "Variedades",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SBT_logo_2014.svg/512px-SBT_logo_2014.svg.png",
+    "group": "TV Aberta",
+    "logo": "https://upload.wikimedia.org/wikipedia/pt/4/41/Logotipo_do_SBT.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
     "url": "https://www.youtube.com/@sbt/live",
-    "description": "Programação, jornalismo e transmissões ao vivo do canal oficial do SBT."
+    "description": "Canal oficial do Sistema Brasileiro de Televisão."
   },
   {
     "id": "sbt-news",
     "name": "SBT News",
     "category": "Notícias",
-    "group": "Notícias",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SBT_News_logo.svg/512px-SBT_News_logo.svg.png",
-    "url": "https://www.youtube.com/@SBTNews/live",
-    "description": "Canal de jornalismo 24 horas do SBT com transmissões e debates ao vivo."
+    "group": "Jornalismo",
+    "logo": "https://play-lh.googleusercontent.com/5rrHIyvdivmBlYoNaAM6gYHo8Y78xx_Bvk40_FlR9rfSSEsyn4QnbPw0MH4pOm2t5pzHrEwf3ulYJaFGPV7K7A",
+    "url": "https://www.youtube.com/@sbtnews/live",
+    "description": "Jornalismo 24h do SBT."
   },
   {
     "id": "band-jornalismo",
     "name": "Band Jornalismo",
     "category": "Notícias",
-    "group": "Notícias",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Rede_Bandeirantes_logo.svg/512px-Rede_Bandeirantes_logo.svg.png",
+    "group": "Jornalismo",
+    "logo": "https://yt3.googleusercontent.com/qqad5hNhAtWZblXQwSFFki_sqD0xied7pUw3con6MAsAenTbt0ZF6r0lqP3BCl8ZWQw_PyyOKA=s900-c-k-c0x00ffffff-no-rj",
     "url": "https://www.youtube.com/@bandjornalismo/live",
-    "description": "Principais notícias, debates e transmissões ao vivo do jornalismo da Band."
+    "description": "Principais notícias, debates e transmissões ao vivo da Band."
   },
   {
     "id": "cartoon-network-brasil",
     "name": "Cartoon Network Brasil",
     "category": "Infantil",
-    "group": "Infantil / Desenhos",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png",
-    "url": "https://www.youtube.com/@BRCartoonNetworkvideos/live",
-    "description": "Animações, episódios especiais e transmissões do Cartoon Network Brasil."
+    "group": "Desenhos",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYYEKSaU4yeKoHFudBObFXF1yma6r06KLJIq0pkmIRjUJk-CHDIIfcALc&s=10",
+    "url": "https://www.youtube.com/@CartoonNetworkBrasil/live",
+    "description": "Desenhos animados e muita diversão."
   },
   {
     "id": "discovery-brasil",
     "name": "Discovery Brasil",
     "category": "Documentários",
-    "group": "Documentários / Ciência",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Discovery_Channel_2019.svg/512px-Discovery_Channel_2019.svg.png",
-    "url": "https://www.youtube.com/@DiscoveryBR/live",
-    "description": "Documentários sobre ciência, sobrevivência, natureza e grandes produções."
+    "group": "Conhecimento",
+    "logo": "https://yt3.googleusercontent.com/z21fVrYD7tbTJLACtGcPmmRYkKN-bd3EELGtF_ZxqY3esAZEsShnoVL2WVGilXPqm6-x86TOJg=s900-c-k-c0x00ffffff-no-rj",
+    "url": "https://www.youtube.com/@discoverybrasil/live",
+    "description": "Séries reais, ciência e documentários."
   },
   {
     "id": "animal-planet-brasil",
     "name": "Animal Planet Brasil",
     "category": "Documentários",
-    "group": "Natureza / Animais",
-    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Animal_Planet_2018.svg/512px-Animal_Planet_2018.svg.png",
+    "group": "Natureza",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
     "url": "https://www.youtube.com/@AnimalPlanetBR/live",
-    "description": "Séries e transmissões dedicadas ao reino animal, vida selvagem e resgates."
+    "description": "Tudo sobre o reino animal."
   }
 ]
