@@ -10,6 +10,11 @@
     "type": "m3u"
   },
   {
+    "name": "RECORD !",
+    "url": "https://cache02rj.cdnsimba.com.br/bpk-token/1ab@lwed0ih3smid3npk2s0vwjgurwsfzqg0loo4pyaa/linear/hls/pa/event/SD69Ine7SSqiW5rbmBEpIA/stream/6c53a183-eca1-47f2-b779-f7f8eddc87de:SCL2/variant/7e1b3808c378e9e9141696d6ec3c2842/bandwidth/3172000.m3u8",
+    "type": "m3u"
+  },
+  {
     "name": "Lista IPTV de Canais Abertos (Geral)",
     "url": "https://iptv-org.github.io/iptv/index.m3u",
     "type": "m3u"
