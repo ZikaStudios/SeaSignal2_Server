@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="record" tvg-name="Record TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Record_logo_2023.png/250px-Record_logo_2023.png" group-title="TV Aberta",Record TV
+http://100.83.247.109:8888/record/index.m3u8
