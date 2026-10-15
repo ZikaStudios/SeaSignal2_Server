@@ -9,6 +9,12 @@
       "logoUrl": "https:\/\/i.imgur.com\/O02TF2r.png",
       "group": "Undefined"
     },
+     {
+      "name": "Record TV",
+      "url": "http://100.83.247.109:8888/record/index.m3u8",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/pt/0/0e/Logotipo_da_Record_%28rede_de_televis%C3%A3o%29.png?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original",
+      "group": "Undefined"
+    },
     {
       "name": "Adult Swim Latin America Brazil (720p)",
       "url": "http:\/\/168.197.104.22\/ADULT_SWIM\/index.m3u8",
