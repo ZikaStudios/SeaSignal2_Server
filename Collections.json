@@ -22,6 +22,18 @@
       "group": "Undefined"
     },
     {
+      "name": "SBT Interior (720p)",
+      "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
+      "logoUrl": "https://i.imgur.com/IkZfa4j.png",
+      "group": "General"
+    },
+    {
+      "name": "SBT",
+      "url": "https://www.youtube.com/@sbt/live",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SBT_logo_2014.svg/512px-SBT_logo_2014.svg.png",
+      "group": "Variedades"
+    },
+    {
       "name": "Adult Swim Latin America Brazil (720p)",
       "url": "http://168.197.104.22/ADULT_SWIM/index.m3u8",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/960px-Adult_Swim_2003_logo.svg.png",
@@ -76,12 +88,6 @@
       "group": "Undefined"
     },
     {
-      "name": "SBT Interior (720p)",
-      "url": "https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8",
-      "logoUrl": "https://i.imgur.com/IkZfa4j.png",
-      "group": "General"
-    },
-    {
       "name": "TV Cultura (720p)",
       "url": "http://45.162.64.114/TV_CULTURA/index.m3u8",
       "logoUrl": "https://i.ibb.co/nm0jXMM/cultura-3x.png",
@@ -128,12 +134,6 @@
       "url": "https://www.youtube.com/@BrasilUrgente/live",
       "logoUrl": "https://upload.wikimedia.org/wikipedia/pt/4/47/Logotipo_do_Brasil_Urgente.png",
       "group": "Jornalismo"
-    },
-    {
-      "name": "SBT",
-      "url": "https://www.youtube.com/@sbt/live",
-      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/SBT_logo_2014.svg/512px-SBT_logo_2014.svg.png",
-      "group": "Variedades"
     },
     {
       "name": "Band Jornalismo",
