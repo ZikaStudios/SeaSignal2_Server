@@ -1,4 +1,9 @@
 [
+    {
+    "name": "Record tv",
+    "url": "https://raw.githubusercontent.com/ZikaStudios/SeaSignal2_Server/refs/heads/main/record.m3u",
+    "type": "m3u"
+  },
   {
     "name": "Best10 (Português)",
     "url": "https://iptv-org.github.io/iptv/languages/por.m3u",
