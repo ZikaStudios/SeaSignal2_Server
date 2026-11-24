@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="record" tvg-name="Record TV lucas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Record_logo_2023.png/250px-Record_logo_2023.png" group-title="TV Aberta",Record TV
+#EXTINF:-1 tvg-id="record" tvg-name="Record TV lucas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Record_logo_2023.png/250px-Record_logo_2023.png" group-title="TV Aberta",Record TV lucas
 http://100.108.69.36:8888/record/index.m3u8
 
 #EXTINF:-1 tvg-id="band" tvg-name="Band SP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rede_Bandeirantes_2018.png/250px-Rede_Bandeirantes_2018.png" group-title="TV Aberta",Band SP
